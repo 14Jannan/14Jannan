@@ -25,7 +25,7 @@ I'm an enthusiastic and aspiring Fullstack Developer currently pursuing a B.Sc. 
 
 ### 💡 Project Experience
 
-#### [LifeFlow Blood Bank Website](https://github.com/your-github-username/LifeFlow-Blood-Bank) (Replace with actual GitHub link)
+#### [LifeFlow Blood Bank Website](https://github.com/14Jannan/LifeFlow-Blood-Bank) (You might need to adjust this specific repository link if it's different)
 
 A blood donation management platform built to efficiently connect blood donors with hospitals and manage blood requests.
 
@@ -37,12 +37,6 @@ A blood donation management platform built to efficiently connect blood donors w
 
 ---
 
-### 🏆 Hackathons & Achievements
-
-*   **Code Rush 2023:** Inter-Faculty Hackathon, Faculty of Information Technology, University of Moratuwa.
-
----
-
 ### 🌱 What I'm Learning
 
 I'm currently deepening my knowledge in Java, NodeJS, and React to become a well-rounded Fullstack Developer. I'm always open to exploring new technologies and contributing to exciting projects!
@@ -51,9 +45,9 @@ I'm currently deepening my knowledge in Java, NodeJS, and React to become a well
 
 ### 📫 Let's Connect!
 
-*   **LinkedIn:** [Jannan Harichandran](https://www.linkedin.com/in/your-linkedin-profile) (Replace with your actual LinkedIn URL)
+*   **LinkedIn:** [Jannan Harichandran](https://www.linkedin.com/in/jannan-harichandran-79a019302)
 *   **Email:** 1407jannan@gmail.com
-*   **GitHub:** [github.com/your-github-username](https://github.com/your-github-username) (This is implied as it's your profile README, but you can link specific repositories or your main profile page)
+*   **GitHub:** [github.com/14Jannan](https://github.com/14Jannan)
 
 ---
 
