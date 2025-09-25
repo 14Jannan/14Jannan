@@ -1,6 +1,6 @@
 # Hi there, I'm Jannan Harichandran! 👋
 
-I'm an enthusiastic and aspiring Fullstack Developer currently pursuing a B.Sc. (Hons.) in Information Technology at the University of Moratuwa. I'm passionate about building impactful software solutions and constantly learning new technologies.
+I'm an enthusiastic Undergraduate Student currently pursuing a B.Sc. (Hons.) in Information Technology at the University of Moratuwa, with a keen interest in frontend development. I'm passionate about building intuitive and visually appealing user interfaces and continuously learning new technologies.
 
 ---
 
@@ -8,7 +8,7 @@ I'm an enthusiastic and aspiring Fullstack Developer currently pursuing a B.Sc. 
 
 *   **Student:** B.Sc. (Hons.) in Information Technology (Undergraduate) at the University of Moratuwa (2024-2028).
 *   **Location:** Dehiwala, Western Province, Sri Lanka.
-*   **Goal:** To leverage my technical skills and innovative mindset to create efficient and user-friendly applications.
+*   **Goal:** To build impactful software solutions, focusing on creating efficient and user-friendly applications.
 *   **Strengths:** Problem Solving | Team Work | Innovation
 
 ---
@@ -29,7 +29,7 @@ I'm an enthusiastic and aspiring Fullstack Developer currently pursuing a B.Sc. 
 
 A blood donation management platform built to efficiently connect blood donors with hospitals and manage blood requests.
 
-*   **Role:** FullStack Developer (React, Firebase)
+*   **Role:** Developer (React, Firebase)
 *   **Key Contributions:**
     *   Implemented authentication with email verification using Firebase.
     *   Designed responsive login, signup, and request forms with navigation.
@@ -39,7 +39,7 @@ A blood donation management platform built to efficiently connect blood donors w
 
 ### 🌱 What I'm Learning
 
-I'm currently deepening my knowledge in Java, NodeJS, and React to become a well-rounded Fullstack Developer. I'm always open to exploring new technologies and contributing to exciting projects!
+I'm currently deepening my knowledge in React and improving my frontend development skills. I'm always open to exploring new technologies and contributing to exciting projects!
 
 ---
 
